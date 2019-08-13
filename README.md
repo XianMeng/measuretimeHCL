@@ -12,10 +12,10 @@ __3. Run:__
 `mpirun -hostfile hostfile ./measeuretime`   
 It is ok to run on server02    
 The screen print is as follows:    
-https://github.com/XianMeng/measuretime/blob/master/server2screenprint.png
+https://github.com/XianMeng/measuretimeHCL/blob/master/server2screenprint.png
 
 * On seerver01:  
 `mpirun -hostfile hostfile ./measeuretime`  
 It is unable to run on server01   
 The screen print is as follows:  
-https://github.com/XianMeng/measuretime/blob/master/server1screenprint.png
+https://github.com/XianMeng/measuretimeHCL/blob/master/server1screenprint.png
